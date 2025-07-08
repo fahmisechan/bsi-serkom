@@ -64,11 +64,6 @@ define('DB_NAME', 'taskmanager_cms');
 
 Setelah setup database, Anda dapat login dengan akun berikut:
 
-### Manager
-
-- **Username**: manager
-- **Password**: password123
-
 ### User
 
 - **Username**: john_doe
